@@ -1,4 +1,6 @@
 <img src=hawkbit_logo.png width=533 height=246 />
+Some changes
+lab3
 
 # Eclipse hawkBit™ - Update Server
 
